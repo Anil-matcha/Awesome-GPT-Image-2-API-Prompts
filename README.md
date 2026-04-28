@@ -43,6 +43,7 @@ Here are some of the audio tools available:
 - [Convert to OPUS](https://tools.vadoo.tv/audio-converter/opus-converter)
 - [Convert to WAV](https://tools.vadoo.tv/audio-converter/wav-converter)
 - [Convert to WMA](https://tools.vadoo.tv/audio-converter/wma-converter)
+- * [Remove audio from video](https://remove-audio.com) - Free, no-upload audio remover. Local processing via WebAssembly. Batch up to 20 clips. No sign-up, no watermarks.
 
 
 ## Contributing
