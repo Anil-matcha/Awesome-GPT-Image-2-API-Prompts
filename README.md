@@ -3,6 +3,13 @@ A list of free media tools for use without login and running completely in brows
 
 ### Open-source code youtube tutorial -> https://youtu.be/VbDLNjoKdt4
 
+## Related Projects
+
+- [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) — Free open-source YouTube Shorts generator — AI highlight detection + auto crop
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Free self-hosted AI image & video studio with 200+ models
+- [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) — Free open-source text-to-video generation tool
+- [AI-B-roll](https://github.com/Anil-matcha/AI-B-roll) — Free AI B-roll generation for your videos
+
 ## Free Video Tools
 
 Here are some of the video tools available:
