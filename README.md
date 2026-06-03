@@ -36,6 +36,7 @@ print(response.data[0].url)
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — Run GPT-Image-2 prompts via CLI with MuAPI
 - [ai-headshot-generator](https://github.com/SamurAIGPT/ai-headshot-generator) — Ready-made SaaS using GPT-Image-2 for professional headshots
 - [nano-banana-generator](https://github.com/SamurAIGPT/nano-banana-generator) — Open-source SaaS for Nano Banana image generation
+- [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) — Schedule your GPT-Image-2 generated visuals across all social platforms
 
 ## Why GPT-Image-2?
 
