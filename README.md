@@ -38,6 +38,8 @@ print(response.data[0].url)
 - [nano-banana-generator](https://github.com/SamurAIGPT/nano-banana-generator) — Open-source SaaS for Nano Banana image generation
 - [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) — Schedule your GPT-Image-2 generated visuals across all social platforms
 
+- [Awesome Claude Fable 5](https://github.com/Anil-matcha/awesome-claude-fable-5) — Curated real-world use cases, tutorials, and benchmarks for Claude Fable 5 — access exclusively via MuAPI
+
 ## Why GPT-Image-2?
 
 GPT-Image-2 is a significant leap over previous versions, offering:
