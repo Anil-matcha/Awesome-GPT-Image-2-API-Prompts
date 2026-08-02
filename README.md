@@ -32,6 +32,8 @@ print(response.data[0].url)
 
 ## Related Projects
 
+- [GPT Image 2 playground](https://muapi.ai/playground/gpt-image-2-text-to-image) — Try the model used by the prompts in this collection.
+- [MuAPI API reference](https://muapi.ai/docs/api-reference) — Integrate GPT Image 2 with a hosted API.
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — Run these prompts as AI agent skills in Claude Code, Cursor, and Gemini CLI
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — Run GPT-Image-2 prompts via CLI with MuAPI
 - [ai-headshot-generator](https://github.com/SamurAIGPT/ai-headshot-generator) — Ready-made SaaS using GPT-Image-2 for professional headshots
