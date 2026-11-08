@@ -33,6 +33,7 @@ print(response.data[0].url)
 ## Related Projects
 
 - [GPT Image 2 playground](https://muapi.ai/playground/gpt-image-2-text-to-image) — Try the model used by the prompts in this collection.
+- [Eimu](https://eimu.art) — Online GPT Image 2 & Nano Banana Pro generator — no relay station setup or API key required, sign in and download.
 - [MuAPI API reference](https://muapi.ai/docs/api-reference) — Integrate GPT Image 2 with a hosted API.
 - [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) — Run these prompts as AI agent skills in Claude Code, Cursor, and Gemini CLI
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — Run GPT-Image-2 prompts via CLI with MuAPI
